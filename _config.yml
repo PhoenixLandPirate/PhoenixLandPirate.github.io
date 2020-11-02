@@ -1,6 +1,6 @@
 # Site settings
 title: Brad Johnson
-email: anthony.leonardi+website@gmail.com
+email: BradJohnson@mailbox.org
 url: http://ajleonardi.co
 description: "راد جونسون"
 lp-bg: /img/mwm-x2.jpg
@@ -18,14 +18,8 @@ footer: Anthony Leonardi
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-  - title: linkedin
-    url: https://www.linkedin.com/in/anthonyleonardi
-  - title: instagram
-    url: https://instagram.com/AJLeonardi
-  - title: twitter
-    url: https://twitter.com/AJLeonardi
   - title: github
-    url: https://github.com/AJLeonardi
+    url: https://github.com/PhoenixLandPirate
 
 
 # Build settings
